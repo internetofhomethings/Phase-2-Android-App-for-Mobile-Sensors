@@ -62,21 +62,28 @@ Data is saved in CSV format every time a new GPS data set is received. The follo
 <tr>
 <td>1. UTC</td>
 <td>Milliseconds</td>
+</tr>
+<tr>
 <td>2. Latitude</td>
 <td>Degrees</td>
+</tr>
+<tr>
 <td>3. Longitude</td>
 <td>Degrees</td>
+</tr>
+<tr>
 <td>4. Speed</td>
 <td>Mph</td>
+</tr>
+<tr>
 <td>5. Altitude</td>
 <td>Feet</td>
 </tr>
+<tr>
+<td>6. Temperature</td>
+<td>Degrees F</td>
+</tr>
 </table>
-2. Latitude                     - Degrees
-3. Longitude                 - Degrees
-4. Speed                     - Mph
-5. Altitude                  - Feet
-6. Temperature (Baro Sensor) - Degrees F
 7. Tempreature (Humid Sensr) - Degrees F
 8. Barometric Pressure       - inches Hg
 9. Humidity                  - Percent
