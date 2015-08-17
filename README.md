@@ -83,13 +83,34 @@ Data is saved in CSV format every time a new GPS data set is received. The follo
 <td>6. Temperature</td>
 <td>Degrees F</td>
 </tr>
+<tr>
+<td>6. Temperature</td>
+<td>Degrees F</td>
+</tr>
+<tr>
+<td>6. Temperature</td>
+<td>Degrees F</td>
+</tr>
+<tr>
+<td>6. Temperature</td>
+<td>Degrees F</td>
+</tr>
+<tr>
+<td>ESP8266 System time</td>
+<td>Seconds</td>
+</tr>
+<tr>
+<td>11.ESP8266 Free Heap</td>
+<td>Bytes</td>
+</tr>
+<tr>
+<td>12.ESP8266 loop() iteration</td>
+<td>Loops</td>
+</tr>
 </table>
 7. Tempreature (Humid Sensr) - Degrees F
 8. Barometric Pressure       - inches Hg
 9. Humidity                  - Percent
-10.ESP8266 System time       - Seconds
-11.ESP8266 Free Heap         - Bytes
-12.ESP8266 loop() iteration  - Loops
 
 
 
