@@ -60,8 +60,16 @@ Data is saved in CSV format every time a new GPS data set is received. The follo
 <th>Units</th>
 </tr>
 <tr>
-<td>01. UTC</td>
+<td>1. UTC</td>
 <td>Milliseconds</td>
+<td>2. Latitude</td>
+<td>Degrees</td>
+<td>3. Longitude</td>
+<td>Degrees</td>
+<td>4. Speed</td>
+<td>Mph</td>
+<td>5. Altitude</td>
+<td>Feet</td>
 </tr>
 </table>
 2. Latitude                     - Degrees
