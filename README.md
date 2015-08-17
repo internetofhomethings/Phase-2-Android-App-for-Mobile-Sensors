@@ -54,9 +54,16 @@ run if it is to be preserved.
 
 Data is saved in CSV format every time a new GPS data set is received. The following fields are saved to the CSV file:
 
-<p style="font-family:"Courier-New">
-Field.............................Units<br>
-1. UTC............................Milliseconds<br>
+<table>
+<tr>
+<th>Field</th>
+<th>Units</th>
+</tr>
+<tr>
+<td>01. UTC</td>
+<td>Milliseconds</td>
+</tr>
+</table>
 2. Latitude                     - Degrees
 3. Longitude                 - Degrees
 4. Speed                     - Mph
@@ -68,7 +75,7 @@ Field.............................Units<br>
 10.ESP8266 System time       - Seconds
 11.ESP8266 Free Heap         - Bytes
 12.ESP8266 loop() iteration  - Loops
-</p>
+
 
 
 
