@@ -80,23 +80,23 @@ Data is saved in CSV format every time a new GPS data set is received. The follo
 <td>Feet</td>
 </tr>
 <tr>
-<td>6. Temperature</td>
+<td>6. Temperature (Baro Sensor)</td>
 <td>Degrees F</td>
 </tr>
 <tr>
-<td>6. Temperature</td>
+<td>7. Temperature (Humidity Sensor)</td>
 <td>Degrees F</td>
 </tr>
 <tr>
-<td>6. Temperature</td>
-<td>Degrees F</td>
+<td>8. Barometric Pressure</td>
+<td>inches Hg</td>
 </tr>
 <tr>
-<td>6. Temperature</td>
-<td>Degrees F</td>
+<td>9. Humidity</td>
+<td>Percent</td>
 </tr>
 <tr>
-<td>ESP8266 System time</td>
+<td>10. ESP8266 System time</td>
 <td>Seconds</td>
 </tr>
 <tr>
@@ -108,9 +108,6 @@ Data is saved in CSV format every time a new GPS data set is received. The follo
 <td>Loops</td>
 </tr>
 </table>
-7. Tempreature (Humid Sensr) - Degrees F
-8. Barometric Pressure       - inches Hg
-9. Humidity                  - Percent
 
 
 
