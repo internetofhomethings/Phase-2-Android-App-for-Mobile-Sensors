@@ -54,9 +54,9 @@ run if it is to be preserved.
 
 Data is saved in CSV format every time a new GPS data set is received. The following fields are saved to the CSV file:
 
-Field                          Units
-1. UTC                       - Milliseconds
-2. Latitude                  - Degrees
+Field                             Units
+1. UTC                          - Milliseconds
+2. Latitude                     - Degrees
 3. Longitude                 - Degrees
 4. Speed                     - Mph
 5. Altitude                  - Feet
